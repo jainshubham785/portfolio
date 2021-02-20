@@ -5,7 +5,7 @@ import Button from '../Button/Button'
 
 const Hero = (props) => {
     return (
-        <div className = "container" style = {{ marginTop : "70px"}}>
+        <div className = "container" style = {{ marginTop : "50px"}}>
             <div className = "flexRow justify-sb align-center">
                 <div>
                     <p className = "upperCase bold-500 textColor ls-1 mtb-10">
